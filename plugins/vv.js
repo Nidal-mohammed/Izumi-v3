@@ -1,7 +1,7 @@
 const { izumi, mode } = require('../lib/');
 izumi(
   {
-    pattern: "vv",
+    pattern: "👍",
     fromMe: mode,
     desc: "Forwards the view-once message to your DM",
     type: "downloader",
